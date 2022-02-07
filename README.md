@@ -5,3 +5,7 @@ Este repositorio contiene las siguientes carpetas:
 ## Modulo 0
 * **Ejercicio 1**: Crea y ejecuta tu notebook (Boton para arrancar la nave) - **Terminado**
 * **Ejercicio 2**: Usar comandos avanzados (Gráfico y Cálculos) - **Terminado**
+
+## Modulo 1
+* **Ejercicio 1**: Tu primer programa (Imprimir la fecha de hoy) - **Terminado**
+* **Ejercicio 2**: Construir un convertidor de unidades (Convertir Parsecs a Años Luz) - **Terminado**
