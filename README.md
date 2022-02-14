@@ -14,5 +14,7 @@ Este repositorio contiene las siguientes carpetas:
 * **Ejercicio 1**: Crear un entorno virtual (Crear Entorno - Instalar Paquetes - Desactivar Entorno) - **Terminado**
 
 ## Módulo 3
-* **Ejercicio 1**: Escribir declaraciones if, else, y elif - **Terminado**
+* **Ejercicio 1**: Lógica condicional para imprimir una advertencia (Uso de true o false) - **Terminado**
+* **Ejercicio 2**: Expresiones de prueba (Uso de if, else, y elif) - **Terminado**
+* **Ejercicio 3**: Combinaciones de expresiones de prueba (Uso de and y or)  - **Terminado**
 
