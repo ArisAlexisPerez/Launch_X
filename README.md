@@ -9,3 +9,6 @@ Este repositorio contiene las siguientes carpetas:
 ## Modulo 1
 * **Ejercicio 1**: Tu primer programa (Imprimir la fecha de hoy) - **Terminado**
 * **Ejercicio 2**: Construir un convertidor de unidades (Convertir Parsecs a Años Luz) - **Terminado**
+
+## Modulo 2
+* **Ejercicio 1**: Crear un entorno virtual (Crear Entorno - Instalar Paquetes - Desactivar Entorno) - **Terminado**
