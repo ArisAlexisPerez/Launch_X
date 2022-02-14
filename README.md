@@ -12,3 +12,7 @@ Este repositorio contiene las siguientes carpetas:
 
 ## Módulo 2
 * **Ejercicio 1**: Crear un entorno virtual (Crear Entorno - Instalar Paquetes - Desactivar Entorno) - **Terminado**
+
+## Módulo 3
+* **Ejercicio 1**: Escribir declaraciones if, else, y elif - **Terminado**
+
